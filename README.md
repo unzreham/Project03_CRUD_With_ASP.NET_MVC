@@ -1,5 +1,7 @@
 # Project03_CRUD_With_ASP.NET_MVC
 
+<div dir="rtl" align="right">
+
 
 # فكرة المشروع 
 
@@ -19,4 +21,5 @@
 
 # التسليم
 
-يوم الأحد June 6th، الساعة 9:00 am
+يوم الأحد June 13th، الساعة 9:00 am
+</div>
