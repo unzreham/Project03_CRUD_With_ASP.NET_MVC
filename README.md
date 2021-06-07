@@ -6,7 +6,7 @@
 بناء مشروع ASP.NET MVC قائم على فكرة من اختيارك ويكون قادر على التعامل مع بيانات حقيقية باستخدام Entity Framework Core 
 
 # متطلبات المشروع
-(  استخدام الـCRUD مع الـEF Core )
+(  استخدام الـCRUD مع الـEF Core  بالـASP.NET Core)
 - استخدام Entity Framework Core وربطها بقاعدة بيانات Database
     -  استخدام  MS SQL server  
     - استخدام Migration وCodeFirst Approach
@@ -14,7 +14,7 @@
     - استخدام مفهوم العلاقات بين الجداول
     - عمل fetch استرجاع للبيانات
 # إضافة | Bouns  
-- عمل ٢ أو أكثر من وظائف CRUD على المشروع
+- عمل API 
 
 
 # التسليم
