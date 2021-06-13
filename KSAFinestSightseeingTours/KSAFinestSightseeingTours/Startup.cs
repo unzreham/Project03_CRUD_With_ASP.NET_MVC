@@ -36,6 +36,11 @@ namespace KSAFinestSightseeingTours
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
 
+            app.UseCors(options =>
+          options.WithOrigins("http://localhost:3000")
+          .AllowAnyHeader()
+          .AllowAnyMethod());
+
 
             app.UseSwagger();
 

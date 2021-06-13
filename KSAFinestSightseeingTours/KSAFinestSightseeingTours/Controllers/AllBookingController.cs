@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace KSAFinestSightseeingTours.Controllers
 {
+
+
+    [Route("api/[controller]")]
+    [ApiController]
     public class AllBookingController : ControllerBase
     {
 

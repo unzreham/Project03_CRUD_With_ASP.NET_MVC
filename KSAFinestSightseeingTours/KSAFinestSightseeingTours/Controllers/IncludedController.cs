@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace KSAFinestSightseeingTours.Controllers
 {
-    public class IncludedController : Controller
+
+    [Route("api/[controller]")]
+    [ApiController]
+    public class IncludedController : ControllerBase
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+       
     }
 }
