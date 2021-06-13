@@ -1,6 +1,6 @@
 # Project03_CRUD_With_ASP.NET_MVC
 
-<div dir="rtl" align="right">
+<div dir="rtl" >
 
 
 
