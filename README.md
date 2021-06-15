@@ -17,7 +17,8 @@ The webpage provides booking for tours in KSA, and allow the tour organizer to m
 
 ##### Finally, this project created by using:
 * Asp.net core web app (mvc) 
-* EntityFrameworkcore.SQLServer
+* EntityFrameworkcore.
+* SQLServer
 * React  library
 
     
