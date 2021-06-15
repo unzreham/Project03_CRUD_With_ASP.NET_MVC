@@ -5,7 +5,7 @@
 
 
 # Description  
-The webpage provides booking for tours in KSA, and allow the tour organizer to manage tours
+The webpage provides booking for tours in KSA, and allows the tour organizer to manage tours
 
 ![Capture1](https://user-images.githubusercontent.com/82495629/121799287-ee661d00-cc33-11eb-9ac8-a87c7c63cdd5.PNG)
 ![Capture2](https://user-images.githubusercontent.com/82495629/121799289-f4f49480-cc33-11eb-8b01-17667ad1f4f5.PNG)
